@@ -15,12 +15,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 💞️ Backend, Blockchain and understand frontend tech
 
 - 🔭 I’m currently working on My Blog, Github Project
 
 - 🌱 I’m currently learning TypeScript, Redis
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects,Tech Articles, Blockchain 
 
 - 💬 Talk to me about Java, Node.js, Express, JavaScript, Microservices, Opportunities, Open Source, Collaboration 
 
