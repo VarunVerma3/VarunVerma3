@@ -25,6 +25,7 @@
 - 💬 Talk to me about Java, Node.js, Express, JavaScript, Microservices, Opportunities, Open Source, Collaboration 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/VarunVerma3?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://img.icons8.com/color/48/000000/java.png'> </a>
 <a href= https://github.com/VarunVerma3?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://img.icons8.com/color/48/000000/python--v1.png'> </a>
 <a href= https://github.com/VarunVerma3?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg'> </a>
 <a href= https://github.com/VarunVerma3?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://img.icons8.com/color/48/000000/javascript--v1.png'> </a>
